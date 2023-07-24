@@ -1,5 +1,6 @@
 # E-Commerce_Back_End
   
+  A working backend for an E-Commerce site, configured with a working Express.js API & using Sequelize to interact with the MySQL database.
   
   ## Description:
   
@@ -19,6 +20,8 @@
   Repo:
   [https://github.com/djamiranda/E-Commerce_Back_End](https://github.com/djamiranda/E-Commerce_Back_End)
 
-  Heroku:
-   [https://fast-spire-36550-70eaf287491b.herokuapp.com/](https://fast-spire-36550-70eaf287491b.herokuapp.com/)
+  Video:
+  [Google Drive Link](https://drive.google.com/file/d/1V6RZWm-LEFvCON6CANYUCjPaQfAWFcXa/view?usp=sharing)
+
+   
   
